@@ -28,10 +28,11 @@ For both Linux and Windows, the same Yara rule IDs are used (except for File Int
 <br>
 🔧 SETUP
 
-1️⃣ Choose your preferred approach (remove or quarantine).<br>
-2️⃣ Copy the relevant files to your environment.<br>
-3️⃣ Adjust the FIM paths and rule IDs to match your setup.<br>
-4️⃣ If you modify the Yara integration rule ID, Yara scan rule ID, or active response script IDs, ensure you update the corresponding Wazuh rules.<br>
+1️⃣ Choose your preferred approach (remove or quarantine);<br>
+2️⃣ Copy the relevant files to your environment;<br>
+3️⃣ Adjust the FIM paths and rule IDs to match your setup;<br>
+4️⃣ If you choose the quarantine approach, adjust the quarantine folder location to your preference;<br>
+5️⃣ If you modify the Yara integration rule ID, Yara scan rule ID, or active response script IDs, ensure you update the corresponding Wazuh rules.<br>
 <br>
 <br>
 <br>
